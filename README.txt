@@ -38,3 +38,5 @@ Support is provided through the user mailing list.  Mail
 questions or bug reports to:
 
   mybatis-user@googlegroups.com
+ 
+修改源码文件，新增javaServiceGenerator，javaControllerGenerator两个标签，新增JavaServiceGeneratorConfiguration，JavaControllerGeneratorConfiguration处理类，根据实际业务情况修改。
